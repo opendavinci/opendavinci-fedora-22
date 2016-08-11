@@ -32,12 +32,14 @@ RUN yum -y install \
     freeglut-devel \
     gcc \
     gcc-c++ \
+    git \
+    python2 \
     iproute \
     kernel-devel \
     make \
     opencv-devel \
     psmisc \
-    qt-devel \
-    qwt-devel \
+    qt4-devel \
+    qwt5-qt4-devel \
     wget
 
